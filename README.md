@@ -11,8 +11,13 @@ Nossa equipe é formada por 6 integrantes, sendo eles:
 # Colaboradores
 
 João Carlos Kenji Hecht Kaminobo - Product Owner
+
 Matheus de Lima Moisés - Scrum Master
+
 Eduardo Juc Salgado - Developer
+
 Luís Felipe Silva Dellú - Developer
+
 Marcos Vinícius dos Santos Moreira - Developer
+
 Ygor Melo Rodrigues da Silva - Developer
