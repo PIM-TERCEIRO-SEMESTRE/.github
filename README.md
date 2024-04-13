@@ -8,6 +8,8 @@ Com nossa plataforma de gerenciamento, os agricultores urbanos terão acesso a f
 
 Nossa equipe é formada por 6 integrantes, sendo eles:
 
+# Colaboradores
+
     João Carlos Kenji Hecht Kaminobo - Product Owner
     Matheus de Lima Moisés - Scrum Master
     Eduardo Juc Salgado - Developer
