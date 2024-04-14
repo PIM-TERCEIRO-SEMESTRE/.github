@@ -6,8 +6,6 @@ Nossa empresa nasce da visão de transformar espaços urbanos em centros de prod
 
 Com nossa plataforma de gerenciamento, os agricultores urbanos terão acesso a ferramentas poderosas para monitorar e controlar todos os aspectos de suas operações, desde o cultivo e irrigação até o monitoramento do clima e gestão dos processos.
 
-Nossa equipe é formada por 6 integrantes, sendo eles:
-
 # Colaboradores
 
 João Carlos Kenji Hecht Kaminobo - Product Owner
