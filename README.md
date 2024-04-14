@@ -39,3 +39,7 @@ Efetuada uma reunião a criação das Sprints 1 e 2 e divisão de tarefas de cad
 05/04/2024
 
 Efetuada uma reunião e criação da Sprint 3 e suas tarefas 
+
+13/04/2024
+
+Efetuada uma reunião e revisão do que já foi feito e suas distribuições de tarefas e inicio de protótipo do Sistema 
