@@ -32,7 +32,11 @@ Efetuada uma reunião e Levantamento de requisitos do sistema (BACKLOG)
 
 31/03/2024
 
-Efetuada uma reunião a criação das Sprints 1 e 2 e divisão de tarefas de cada sprint 
+Efetuada uma reunião para revisão e correção dos requisitos levantados.
+
+03/04/2024
+
+Criação das Sprints 1 e 2 e divisão de tarefas de cada sprint 
 
 05/04/2024
 
