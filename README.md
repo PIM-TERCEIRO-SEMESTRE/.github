@@ -26,21 +26,25 @@ Ygor Melo Rodrigues da Silva - Developer
 
 Efetuada uma reunião para distribuição de função de cada colaborador, criação da logo utilizada 
 
+22/03/2024
+
+Efetuada uma reunião para Levantamento de requisitos do sistema (BACKLOG) 
+
 24/03/2024
-
-Efetuada uma reunião e Levantamento de requisitos do sistema (BACKLOG) 
-
-31/03/2024
 
 Efetuada uma reunião para revisão e correção dos requisitos levantados.
 
+31/03/2024
+
+Efetuada uma reunião para criação das Sprints 1 e 2 e divisão das tarefas de acordo com os níveis de prioridade.
+
 03/04/2024
 
-Criação das Sprints 1 e 2 e divisão de tarefas de cada sprint 
+Efetuada uma reunião para revisão das Sprints 1 e 2 e das tarefas.
 
 05/04/2024
 
-Efetuada uma reunião e criação da Sprint 3 e suas tarefas 
+Efetuada uma reunião para criação da Sprint 3 e suas tarefas.
 
 13/04/2024
 
