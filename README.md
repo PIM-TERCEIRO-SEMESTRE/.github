@@ -49,3 +49,7 @@ Efetuada uma reunião para criação da Sprint 3 e suas tarefas.
 13/04/2024
 
 Efetuada uma reunião e revisão do que já foi feito e suas distribuições de tarefas e inicio de protótipo do Sistema 
+
+26/04/2024
+
+Efetuada uma reunião parar dar continuidade no projeto até aonde foi realizado.
