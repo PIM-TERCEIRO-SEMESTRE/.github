@@ -53,3 +53,7 @@ Efetuada uma reunião e revisão do que já foi feito e suas distribuições de 
 26/04/2024
 
 Efetuada uma reunião parar dar continuidade no projeto até aonde foi realizado.
+
+01/05/2024
+
+Efetuada uma reunião para seguir com o projeto.
