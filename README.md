@@ -57,3 +57,7 @@ Efetuada uma reunião parar dar continuidade no projeto até aonde foi realizado
 01/05/2024
 
 Efetuada uma reunião para seguir com o projeto.
+
+19/05/2024
+
+Reunião realizada para fazermos a corrreção, e seguir para o fim do projeto.
