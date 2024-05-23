@@ -60,4 +60,4 @@ Efetuada uma reunião para seguir com o projeto.
 
 19/05/2024
 
-Reunião realizada para fazermos a corrreção, e seguir para o fim do projeto.
+Reunião realizada para fazermos a correção, e seguir para o fim do projeto.
